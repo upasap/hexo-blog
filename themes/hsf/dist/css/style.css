@@ -1,0 +1,7 @@
+:root {
+	--page-width: 50em;
+}
+
+.terminal-prompt::before {
+    content: "👽 ";
+}
